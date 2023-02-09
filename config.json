@@ -1,0 +1,10 @@
+{
+    "bgpath": "D:/Common/Project-Main/ToDoList/images/Gif.gif",
+    "donecolor": 3,
+    "interval": 20,
+    "reverse": false,
+    "sort": "level",
+    "taskcolor": 8,
+    "theme": "dark",
+    "transparent": false
+}

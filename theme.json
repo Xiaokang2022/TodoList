@@ -1,0 +1,210 @@
+{
+    "dark": {
+        "MainColor": [
+            "#FFF",
+            "#000",
+            "#222",
+            "#BBB",
+            "#444"
+        ],
+        "rootcanvas": {
+            "bg": "#000",
+            "highlightbackground": "#FFF"
+        },
+        "canvas": {
+            "bg": "#222",
+            "highlightbackground": "#FFF"
+        },
+        "SetWindow": {
+            "bg": "#222",
+            "highlightbackground": "#FFF"
+        },
+        "ReadWindow": {
+            "bg": "#222",
+            "highlightbackground": "#FFF"
+        },
+        "TimeChooser": {
+            "bg": "#000",
+            "highlightbackground": "#FFF"
+        },
+        "CanvasLabel": {
+            "color_text": [
+                "#BBB",
+                "#FFF",
+                "#FFF"
+            ],
+            "color_fill": [
+                "#000",
+                "#000",
+                "#000"
+            ],
+            "color_outline": [
+                "#444",
+                "#BBB",
+                "#FFF"
+            ]
+        },
+        "CanvasButton": {
+            "color_text": [
+                "#BBB",
+                "#FFF",
+                "#FFF"
+            ],
+            "color_fill": [
+                "#000",
+                "#444",
+                "#777"
+            ],
+            "color_outline": [
+                "#444",
+                "#BBB",
+                "#FFF"
+            ]
+        },
+        "CanvasEntry": {
+            "color_text": [
+                "#BBB",
+                "#FFF",
+                "#FFF"
+            ],
+            "color_fill": [
+                "#000",
+                "#000",
+                "#000"
+            ],
+            "color_outline": [
+                "#444",
+                "#BBB",
+                "#FFF"
+            ]
+        },
+        "CanvasText": {
+            "color_text": [
+                "#BBB",
+                "#FFF",
+                "#FFF"
+            ],
+            "color_fill": [
+                "#000",
+                "#000",
+                "#000"
+            ],
+            "color_outline": [
+                "#444",
+                "#BBB",
+                "#FFF"
+            ]
+        },
+        "ToolButton": {
+            "color_text": [
+                "#777",
+                "#FFF",
+                "#FFF"
+            ]
+        }
+    },
+    "light": {
+        "MainColor": [
+            "#000",
+            "#DDD",
+            "#FFF",
+            "#444",
+            "#BBB"
+        ],
+        "rootcanvas": {
+            "bg": "#DDD",
+            "highlightbackground": "#000"
+        },
+        "canvas": {
+            "bg": "#FFF",
+            "highlightbackground": "#000"
+        },
+        "SetWindow": {
+            "bg": "#FFF",
+            "highlightbackground": "#000"
+        },
+        "ReadWindow": {
+            "bg": "#FFF",
+            "highlightbackground": "#000"
+        },
+        "TimeChooser": {
+            "bg": "#DDD",
+            "highlightbackground": "#000"
+        },
+        "CanvasLabel": {
+            "color_text": [
+                "#444",
+                "#000",
+                "#000"
+            ],
+            "color_fill": [
+                "#DDD",
+                "#DDD",
+                "#DDD"
+            ],
+            "color_outline": [
+                "#BBB",
+                "#444",
+                "#000"
+            ]
+        },
+        "CanvasButton": {
+            "color_text": [
+                "#444",
+                "#000",
+                "#000"
+            ],
+            "color_fill": [
+                "#DDD",
+                "#BBB",
+                "#888"
+            ],
+            "color_outline": [
+                "#BBB",
+                "#444",
+                "#000"
+            ]
+        },
+        "CanvasEntry": {
+            "color_text": [
+                "#444",
+                "#000",
+                "#000"
+            ],
+            "color_fill": [
+                "#DDD",
+                "#DDD",
+                "#DDD"
+            ],
+            "color_outline": [
+                "#BBB",
+                "#444",
+                "#000"
+            ]
+        },
+        "CanvasText": {
+            "color_text": [
+                "#444",
+                "#000",
+                "#000"
+            ],
+            "color_fill": [
+                "#DDD",
+                "#DDD",
+                "#DDD"
+            ],
+            "color_outline": [
+                "#BBB",
+                "#444",
+                "#000"
+            ]
+        },
+        "ToolButton": {
+            "color_text": [
+                "#888",
+                "#000",
+                "#000"
+            ]
+        }
+    }
+}
